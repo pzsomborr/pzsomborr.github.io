@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Welcome
 
-To be honestttttttttttttttttttttttttttttttttttttttttttttt, there are a lot of free Java content on the web, sooo... 👇
+To be honest!, there are a lot of free Java content on the web, sooo... 👇
 
 ## Why did I make this site? 🤔
 
