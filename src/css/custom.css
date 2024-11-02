@@ -1,0 +1,60 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #f97316;
+  --ifm-color-primary-dark: #ea670f;
+  --ifm-color-primary-darker: #d45b0d;
+  --ifm-color-primary-darkest: #b84f0b;
+  --ifm-color-primary-light: #fa8531;
+  --ifm-color-primary-lighter: #fb9346;
+  --ifm-color-primary-lightest: #fcab6b;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Adjusted lighter colors for dark mode */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff8a3d;
+  --ifm-color-primary-dark: #e77b36;
+  --ifm-color-primary-darker: #d06e30;
+  --ifm-color-primary-darkest: #b85f29;
+  --ifm-color-primary-light: #ff9d57;
+  --ifm-color-primary-lighter: #ffb170;
+  --ifm-color-primary-lightest: #ffc996;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 165, 0, 0.2);
+}
+
+
+@font-face {
+  font-family: "Hubot Sans";
+  src: url("/static/fonts/Hubot-Sans.woff2") format("woff2 supports variations"),
+    url("/static/fonts/Hubot-Sans.woff2") format("woff2-variations");
+  font-weight: 400 900;
+  font-stretch: 80% 135%;
+}
+
+@font-face {
+  font-family: "Mona Sans";
+  src: url("/static/fonts/Mona-Sans.woff2") format("woff2 supports variations"),
+    url("/static/fonts/Mona-Sans.woff2") format("woff2-variations");
+  font-weight: 400 900;
+  font-stretch: 80% 135%;
+}
+
+html {
+  font-family: "Mona Sans";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Hubot Sans";
+}
