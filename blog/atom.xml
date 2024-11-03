@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pzsomborr.github.io.com/blog</id>
+    <id>https://4loop.xyz/blog</id>
     <title>My Site Blog</title>
     <updated>2024-05-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pzsomborr.github.io.com/blog"/>
+    <link rel="alternate" href="https://4loop.xyz/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://pzsomborr.github.io.com/img/favicon.ico</icon>
+    <icon>https://4loop.xyz/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://pzsomborr.github.io.com/blog/long-blog-post</id>
-        <link href="https://pzsomborr.github.io.com/blog/long-blog-post"/>
+        <id>https://4loop.xyz/blog/long-blog-post</id>
+        <link href="https://4loop.xyz/blog/long-blog-post"/>
         <updated>2024-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://pzsomborr.github.io.com/blog/first-blog-post</id>
-        <link href="https://pzsomborr.github.io.com/blog/first-blog-post"/>
+        <id>https://4loop.xyz/blog/first-blog-post</id>
+        <link href="https://4loop.xyz/blog/first-blog-post"/>
         <updated>2024-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
@@ -48,8 +48,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Asd]]></title>
-        <id>https://pzsomborr.github.io.com/blog/asd</id>
-        <link href="https://pzsomborr.github.io.com/blog/asd"/>
+        <id>https://4loop.xyz/blog/asd</id>
+        <link href="https://4loop.xyz/blog/asd"/>
         <updated>2020-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
